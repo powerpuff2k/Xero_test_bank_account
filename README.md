@@ -1,8 +1,8 @@
 # Xero_test_adding_bank_account
-User story 
--As a Xero User,
--In order to manage my business successfully,
--I want to be able to add an “ANZ (NZ)” bank account inside any Xero Organisation.
+## User story 
+`As a Xero User
+In order to manage my business successfully
+I want to be able to add an “ANZ (NZ)” bank account inside any Xero Organisation`
 
 Using Python unittest framework to write the tests, using selenium webdriver. Have used the Page Object model, in which I have created files for different pages and stored under the Pages folder, a folder for locators, and another folder as 'Driver' to save the browser paths.
 
