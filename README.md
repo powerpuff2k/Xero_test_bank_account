@@ -13,6 +13,13 @@ Need to download -  Python - https://www.python.org/downloads/
 - Selenium Webdriver - http://www.seleniumhq.org
 - Used pycharm IDE (Professional version) - https://www.jetbrains.com/pycharm/download/#section=windows
 
+# Running tests
+On pycharm, Go to the TestXeroProject/Demo/Tests directory, select the test Test_Add_Bank_Account.py file and using the Run option in the menu bar, you can run it with unittest
+- Through command line, you can use python -m unittest Test_Add_Bank_Account.py
+
+
+
+
 # Improvments
 I would definetly try not to use time.sleep or implicit waits and replace with wait functions, and would not like to use elements with dynamic ids.
 
